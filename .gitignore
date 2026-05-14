@@ -1,0 +1,39 @@
+# Python virtual environment
+.venv/
+
+# Analysis results and regenerated artifacts
+New_Analysis/Results/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# R / notebook cache
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.ipynb_checkpoints/
+
+# Logs and scratch outputs
+*.log
+*.out
+*.tmp
+*.temp
+*.bak
+
+# Large intermediate analysis objects
+*.h5ad
+*.h5
+*.loom
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.mtx
+*.zarr/
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store

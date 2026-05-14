@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this software release."
+title: "TSC Single-Cell-Resolution Spatial Transcriptomics Analysis"
+type: software
+license: BSD-3-Clause
+authors:
+  - family-names: "Wu"
+    given-names: "Ju"
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+abstract: "Manuscript-ready analysis workflow for single-cell-resolution spatial transcriptomics analysis of TSC samples."
