@@ -1,0 +1,95 @@
+{
+  "R": {
+    "Version": "4.5.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  },
+  "Packages": {
+    "CellChat": {
+      "Package": "CellChat",
+      "Version": "1.6.1",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "CellChat",
+      "RemoteUsername": "sqjin",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "e4f68625b074247d619c2e488d33970cc531e17c"
+    },
+    "patchwork": {
+      "Package": "patchwork",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "4.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "Matrix": {
+      "Package": "Matrix",
+      "Version": "1.7-3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "nichenetr": {
+      "Package": "nichenetr",
+      "Version": "2.2.1.1",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "nichenetr",
+      "RemoteUsername": "saeyslab",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "2d5c1ab5e135ebe6634d56c5ee13b8207ac178a1"
+    },
+    "Seurat": {
+      "Package": "Seurat",
+      "Version": "5.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "tidyverse": {
+      "Package": "tidyverse",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "data.table": {
+      "Package": "data.table",
+      "Version": "1.17.6",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "WGCNA": {
+      "Package": "WGCNA",
+      "Version": "1.73",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "stringr": {
+      "Package": "stringr",
+      "Version": "1.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "reticulate": {
+      "Package": "reticulate",
+      "Version": "1.42.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    }
+  }
+}
